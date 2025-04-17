@@ -1,0 +1,1 @@
+export {SpectrumEdgeButton} from './components/spectrum-edge-button/Button';
