@@ -37,14 +37,14 @@ npm install
 <br><br>
 
 3. Start the development server:
-<br>
+
 ```bash
 npm start
 ```
 
 <br><br>
 📁 Folder Structure
-<br>
+
 ```bash
 /src
   /components
